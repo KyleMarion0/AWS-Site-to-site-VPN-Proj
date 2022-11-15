@@ -8,4 +8,3 @@ Checklist:
 - Configure the IPSEC tunnels for on premises routers
 - Install FRR for on premises routers
 - Configure BGP routing for on premises routers
-- 
